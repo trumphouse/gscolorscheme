@@ -1,0 +1,2 @@
+# gscolorscheme
+Neovim用Colorschemeを作るためのメモ
